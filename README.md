@@ -1,1 +1,1 @@
-# rice-design
+# 🍚 Rice Design and Assets
